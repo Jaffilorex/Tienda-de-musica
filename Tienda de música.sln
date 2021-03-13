@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda de música", "Tienda de música\Tienda de música.csproj", "{AE3B6809-CA7A-444C-98FC-E406C911B516}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TiendaDeMúsica", "TiendaDeMúsica\TiendaDeMúsica.vdproj", "{986A812E-F235-4774-B2AD-E26F38555CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3B6809-CA7A-444C-98FC-E406C911B516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3B6809-CA7A-444C-98FC-E406C911B516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3B6809-CA7A-444C-98FC-E406C911B516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3B6809-CA7A-444C-98FC-E406C911B516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A812E-F235-4774-B2AD-E26F38555CA3}.Debug|Any CPU.ActiveCfg = Debug
+		{986A812E-F235-4774-B2AD-E26F38555CA3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DE526E-4D00-463B-9CD6-8811AC71303E}
+	EndGlobalSection
+EndGlobal
